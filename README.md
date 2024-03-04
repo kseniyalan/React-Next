@@ -1,1 +1,1 @@
-This project is a starter template for [Next.js](https://nextjs.org/learn).
+This project is a starter template for [Next.js React framework](https://nextjs.org/learn).
